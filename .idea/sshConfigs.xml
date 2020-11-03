@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig host="18.222.141.62" id="5eb7064e-2be9-439f-9dd2-3f30ea8805f8" keyPath="$PROJECT_DIR$/../manlinKey.pem" port="22" nameFormat="DESCRIPTIVE" username="ec2-user" />
+    </configs>
+  </component>
+</project>
